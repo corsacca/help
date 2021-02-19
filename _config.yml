@@ -3,7 +3,7 @@ highlighter: none
 permalink: pretty
 encoding: utf-8
 port: 4009
-main_baseurl: https://bitwarden.com
+main_baseurl: https://corsacca.github.io/help/
 
 sass:
   sass_dir: ./_scss
